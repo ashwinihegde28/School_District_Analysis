@@ -22,8 +22,8 @@ The project aims to analyze the performance trends and patterns of about fifteen
 8. Apply the groupby() function to a DataFrame.
 9. Use multiple methods to perform a function on a DataFrame.
 10. Perform mathematical calculations on columns of a DataFrame or Series.
-11. [Click Here for original code base of School District Analysis ](https://github.com/ashwinihegde28/School_District_Analysis/blob/main/PyCitySchools.ipynb)
-12. [Click Here for challenge code base of School District Analysis](https://github.com/ashwinihegde28/School_District_Analysis/blob/main/PyCitySchools.ipynb)
+11. [Click Here for original code base of School District Analysis ](https://github.com/ashwinihegde28/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
+12. [Click Here for challenge code base of School District Analysis](https://github.com/ashwinihegde28/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
 
 ## Result
 ### Initial screen shot
